@@ -1,2 +1,1 @@
-This is a project I did as part of my internship program at My IT Academy. This project reviewed Orion Enterprise to better understand its risk assessment strategies and its workability.
-
+This is a project I did as part of my internship program at My IT Academy. This project reviewed various scenarios to help an organization meet its governance, risk, and compliance policies
